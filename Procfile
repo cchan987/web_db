@@ -1,0 +1,1 @@
+web: gunicorn db_trial.wsgi --log-file -

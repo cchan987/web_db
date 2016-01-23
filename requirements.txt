@@ -1,0 +1,11 @@
+certifi==14.5.14
+dj-database-url==0.3.0
+Django==1.9
+Pillow==2.7.0
+PyAutoGUI==0.9.26
+PyMsgBox==1.0.3
+PyScreeze==0.1.5
+PyTweening==1.0.1
+tornado==4.1
+virtualenv==13.1.2
+whitenoise==2.0.6
