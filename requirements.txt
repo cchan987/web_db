@@ -1,13 +1,6 @@
-certifi==14.5.14
 dj-database-url==0.3.0
-Django==1.9
+Django==1.9.1
 gunicorn==19.4.5
-Pillow==2.7.0
 psycopg2==2.6.1
-PyAutoGUI==0.9.26
-PyMsgBox==1.0.3
-PyScreeze==0.1.5
-PyTweening==1.0.1
-tornado==4.1
-virtualenv==13.1.2
+SQLAlchemy==1.0.11
 whitenoise==2.0.6
