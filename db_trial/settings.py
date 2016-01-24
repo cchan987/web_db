@@ -93,6 +93,7 @@ USE_TZ = True
 # Parse database configuration from $DATABASE_URL
 if 'DATABASE_URL' in os.environ:
     DATABASES['default'] = dj_database_url.config()
+    print(DATABASES['default'])
 
 # Enable Persistent Connections
 DATABASES['default']['CONN_MAX_AGE'] = 500
